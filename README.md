@@ -1,6 +1,6 @@
 # CodersHub
 
-Welcome to CodersHubb - Your Gateway to Web Development Excellence!
+Welcome to CodersHub - Your Gateway to Web Development Excellence!
 
 ## About
 
