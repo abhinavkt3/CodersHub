@@ -1,10 +1,10 @@
-# CodeHarborHub
+# COdersHub
 
-Welcome to CodeHarborHub - Your Gateway to Web Development Excellence!
+Welcome to COdersHub - Your Gateway to Web Development Excellence!
 
 ## About
 
-CodeHarborHub is a dynamic platform dedicated to empowering developers, enthusiasts, and learners on their journey to mastering web development. This hub serves as a central point for a variety of educational resources, including tutorials, courses, showcases, and much more.
+COdersHub is a dynamic platform dedicated to empowering developers, enthusiasts, and learners on their journey to mastering web development. This hub serves as a central point for a variety of educational resources, including tutorials, courses, showcases, and much more.
 
 ## Features
 
