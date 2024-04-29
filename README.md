@@ -1,10 +1,10 @@
-# COdersHub
+# CodersHub
 
-Welcome to COdersHub - Your Gateway to Web Development Excellence!
+Welcome to CodersHubb - Your Gateway to Web Development Excellence!
 
 ## About
 
-COdersHub is a dynamic platform dedicated to empowering developers, enthusiasts, and learners on their journey to mastering web development. This hub serves as a central point for a variety of educational resources, including tutorials, courses, showcases, and much more.
+CodersHub is a dynamic platform dedicated to empowering developers, enthusiasts, and learners on their journey to mastering web development. This hub serves as a central point for a variety of educational resources, including tutorials, courses, showcases, and much more.
 
 ## Features
 
